@@ -4,7 +4,7 @@ import './Navbar.css';
 function Navbar() {
     return (
         <nav className="Navbar">
-            <a href="#">The Chatter</a>
+            <a href="/">The Chatter</a>
         </nav>
     );
 }
