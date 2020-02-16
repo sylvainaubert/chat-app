@@ -1,0 +1,13 @@
+.Navbar {
+    background: #bbb;
+    padding: 1em 2em;
+}
+
+.Navbar * {
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
